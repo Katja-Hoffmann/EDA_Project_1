@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 .DSStore
-data/*.csv
+#data/*.csv
 data/*.tsv
 data/*.zip
 data/*.gsv
